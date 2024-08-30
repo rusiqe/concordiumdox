@@ -36,6 +36,9 @@ If you're not using Linux, you can still follow this tutorial to learn about the
 ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
 
 3. Follow the on-screen prompts to complete the installation.
+
+![rust_installation](image.png)
+
 4. After installation, run:
 
 ```source $HOME/.cargo/env```
