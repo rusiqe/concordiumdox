@@ -50,14 +50,8 @@ If you're not using Linux, you can still follow this tutorial to learn about the
 
 ## Step 2: Install Concordium-client
 
-1. Install Concordium-client using the relevant installation file for your operating system:
+1. [Install Concordium-client ](https://developer.concordium.software/en/mainnet/net/installation/downloads.html#concordium-node-and-client-download)using the relevant installation file for your operating system:
 
-Click here for the [macOS installation file](https://distribution.concordium.software/macos/signed/concordium-node-6.3.1.pkg)  
-![Installing Concordium Client](image-1.png)
-
-You can start and stop the concordium testnet node in the applications folder using the start and stop shortcuts.
-
-![Concordium-node control](image-2.png)
 
 ## Step 3: Set up a Concordium wallet
 
