@@ -112,6 +112,7 @@ This is a part of the Cargo.toml file, which is the manifest for Rust projects. 
 ```crate-type = ["cdylib", "rlib"]```: This line specifies two types of libraries to be built:
 ```"cdylib"```: Produces a dynamic system library, which is necessary for creating WebAssembly modules for Concordium smart contracts.
 ```"rlib"```: Produces a "Rust library" file, which is useful for testing and linking with other Rust code.
+
 This configuration ensures that your Rust project is set up correctly for Concordium smart contract development, with the necessary dependencies and build settings in place.
 
 3. Save and close the file.
