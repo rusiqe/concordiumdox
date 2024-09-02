@@ -45,23 +45,23 @@ If you're not using Linux, you can still follow this tutorial to learn about the
 
 5. Verify the installation by running:
 
-```rustc --version cargo --version```
+```rustc --version``` and   ```cargo --version```
 
 
 ## Step 2: Install Concordium-client
 
-1. Install Concordium-client using Cargo:
+1. Install Concordium-client using the relevant installation file for your operating system:
 
-```cargo install concordium-client```
+Click here for the [macOS installation file](https://distribution.concordium.software/macos/signed/concordium-node-6.3.1.pkg)  
+![Installing Concordium Client](image-1.png)
 
-2. Verify the installation:
+You can start and stop the concordium testnet node in the applications folder using the start and stop shortcuts.
 
-```concordium-client --version```
-
+![Concordium-node control](image-2.png)
 
 ## Step 3: Set up a Concordium wallet
 
-1. Visit the [Concordium website](https://concordium.com/) and download the mobile wallet app for your device.
+1. Visit the [Concordium website downloads section](https://developer.concordium.software/en/mainnet/net/installation/downloads.html) and download the testnet wallet app for your device. 
 2. Follow the in-app instructions to create a new account.
 3. Make note of your account address, as you'll need it later.
 
